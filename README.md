@@ -1,2 +1,1 @@
-# presentacion
-Cómputo en la nube - ITSC
+# imc_aws
